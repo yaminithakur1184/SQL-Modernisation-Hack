@@ -67,7 +67,7 @@ In order to deliver this hackathon, you can apply for a One-Time PASS subscripti
 
 
 ## Step-By-Step Guide For Delivery ##
-- **Position the VBD** at your account and follow the necessary steps on ESXP as you would do for any other delivery. Details regarding time booking and best practices for the delivery have been given in the FaQ section below.
+- **Search the VBD** in your account and follow the necessary steps on ESXP as you would do for any other delivery. Details regarding time booking and best practices for the delivery have been given in the FaQ section below.
 
 - **Identify a peer CSA** who will act as the second coach.
 
